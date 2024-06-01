@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "97540431441",
+    "project_id": "autotomi-b1c68",
+    "storage_bucket": "autotomi-b1c68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97540431441:android:9118b4a8757f6b9a91a270",
+        "android_client_info": {
+          "package_name": "com.autotomi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97540431441-uoj51edrm3a7nrm2n6idei31c3mogsdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autotomi.app",
+            "certificate_hash": "7199020258d4ad9f9bbb547d3ca6ff4d60b88141"
+          }
+        },
+        {
+          "client_id": "97540431441-sct7lrvvtbdpfb72npt22h5k3undrv3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCesCRQwDDZRNAHczZNAL36dk1Wan9JsEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97540431441-sct7lrvvtbdpfb72npt22h5k3undrv3q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97540431441-299dpaknr3v5bsit14pcqlfsdos1i7ot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autotomi.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
